@@ -166,4 +166,5 @@ FBullCowCount UBullCowCartridge::GetBullCows(const FString& guess) const
             }
         }
     }
+    return count;
 }
